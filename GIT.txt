@@ -239,4 +239,3 @@ our local branches
 5 git pull
   We can see the modified files on the main branch
 
-=======================================================================
