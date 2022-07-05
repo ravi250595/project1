@@ -1,0 +1,4 @@
+difference between git clone,git fetch,git pull
+git clone --- it's an one time activity and it will copy all the codes from remote repository
+git fetch --- it will copy the any changes made to the existing codes and it will ask u to merge with the repository or not
+git pull --- it will pull the code and merge with repository
